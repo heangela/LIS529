@@ -20,9 +20,9 @@ source-code: https://github.com/heangela/LIS529
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Spiderman - Into The Spiderverse 
+title: Spiderman: Into the Spiderverse (2018)
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Map of Locations in the Film
+tagline: a CollectionBuilder test and exercise
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "a LIS 529 project"
@@ -42,7 +42,7 @@ metadata: Copy of spiderman-metadata - sheet1
 #
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 # organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+organization-logo-banner: https://www.indiewire.com/wp-content/uploads/2018/11/SpiderVerse_trlb795_DH_v2-e1543356399803.jpg
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 
@@ -61,7 +61,7 @@ metadata: Copy of spiderman-metadata - sheet1
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
