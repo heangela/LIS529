@@ -14,13 +14,13 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /LIS529
 # location of code, the full url to your github repository
-source-code: https://github.com/heangela/LIS529
+source-code: "https://github.com/heangela/LIS529"
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Spiderman - Into the Spiderverse 
+title: "Spiderman - Into the Spiderverse" 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: a CollectionBuilder test and exercise
 # description appears in meta tags and other locations
@@ -34,7 +34,7 @@ author: Angela, Ash, Shaye
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: Spiderman-metadata - Sheet1 (5) 
+metadata: "Spiderman-metadata - Sheet1 (5)" 
 
 ##########
 # Site/Organization Branding 
@@ -66,7 +66,7 @@ metadata: Spiderman-metadata - Sheet1 (5)
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE]
+exclude: "[docs/, Rakefile, README.md, LICENSE]"
 # compress CSS output
 sass:
   style: compressed
